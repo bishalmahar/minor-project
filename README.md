@@ -1,2 +1,2 @@
 # minor-project
-This is my collage minor project
+This is my college minor project
